@@ -1,7 +1,5 @@
 royston.test <-
 function(a){
-require(nortest)
-require(moments) 
 p=dim(a)[2]
 n=dim(a)[1]
 z <- matrix(nrow=p, ncol = 1)
@@ -114,6 +112,7 @@ else
 dist.check=("Data analyzed have a normal distribution.")
 }
 }
-structure(list(H=RH,p.value=pv,distribution=dist.check))
-
+res = structure(list(H=RH,p.value=pv,distribution=dist.check))
+warning("The Royston's H test has been moved to MVN package. This package will no longer be supported. Please use MVN package for further analysis.")
+res
 }
