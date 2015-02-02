@@ -12,8 +12,6 @@ Performs a multivariate normality test based on Royston's H test
 \tabular{ll}{
 Package: \tab royston\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2012-12-31\cr
 License: \tab GPL (>=2)\cr
 }
 royston.test(a)

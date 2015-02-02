@@ -1,7 +1,7 @@
-d2946ac00dc65b1dd69ef68116787206 *DESCRIPTION
+e0e848231f12b8e42a11c1d45c802942 *DESCRIPTION
 2d1a119454531b389ffd245df89d4d7d *NAMESPACE
-68eff20d41102d6098c114261fca2688 *R/royston.test.R
-c9ab2e717f3e7333eb9a7fd1bf05c479 *data/a.rda
-3259ff3b5417635b3b9dd5c6685122d5 *man/a.Rd
-914ac2182b3200b443075c48ba8f2195 *man/royston-package.Rd
+01152a10d932c9c9374982544d50fdcd *R/royston.test.R
+dd5c478ccfa47be0986d62a407b8bac7 *R/welcome.R
+eb5f1a6bc760d19b444a2b74a3bd5ab6 *inst/CITATION
+2b797a3b5cff26d137a92dc3300a0da8 *man/royston-package.Rd
 7b831004ecdb6956680b5494863ae82e *man/royston.test.Rd

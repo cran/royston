@@ -113,6 +113,5 @@ dist.check=("Data analyzed have a normal distribution.")
 }
 }
 res = structure(list(H=RH,p.value=pv,distribution=dist.check))
-warning("The Royston's H test has been moved to MVN package. This package will no longer be supported. Please use MVN package for further analysis.")
 res
 }
